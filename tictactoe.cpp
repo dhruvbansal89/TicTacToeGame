@@ -1,9 +1,11 @@
+//demo of using vs code built in github integration...
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
 char m,n; 
 char pos1,pos2;
 char x1='1',x2='2',x3='3',x4='4',x5='5',x6='6',x7='7',x8='8',x9='9';
+//all the variables are declared upto here...
 void printboard()
 {
     cout<<"\n";
